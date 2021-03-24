@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
                 child: ListTile(
                   title: Text ("Освежающие напитки", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
                   ),
-                  subtitle: Text("Боьше чем 100 видов напитков", style: TextStyle(fontSize: 16),
+                  subtitle: Text("Боьше чем 1000 видов напитков", style: TextStyle(fontSize: 16),
                   ),
                   trailing: Icon(Icons.panorama_horizontal),
                 ),
